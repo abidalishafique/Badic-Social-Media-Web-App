@@ -1,0 +1,65 @@
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Assignment no 3.exe
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Assignment no 3.deps.json
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Assignment no 3.runtimeconfig.json
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Assignment no 3.runtimeconfig.dev.json
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Assignment no 3.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Assignment no 3.pdb
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Assignment no 3.Views.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Assignment no 3.Views.pdb
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.csprojAssemblyReference.cache
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.AssemblyInfoInputs.cache
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.AssemblyInfo.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.RazorAssemblyInfo.cache
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.RazorAssemblyInfo.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.TagHelpers.input.cache
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.TagHelpers.output.cache
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.RazorCoreGenerate.cache
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.RazorTargetAssemblyInfo.cache
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.RazorTargetAssemblyInfo.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.Views.pdb
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\staticwebassets\Assignment no 3.StaticWebAssets.Manifest.cache
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\staticwebassets\Assignment no 3.StaticWebAssets.xml
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.pdb
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.genruntimeconfig.cache
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.csproj.CopyComplete
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index1.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.csproj.CoreCompileInputs.cache
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Assignment no 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\HomePage.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\SuccessStatus.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreatePost.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\UsersPost.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\UpdatePost.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\PostDetail.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Index.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Admin\HomePage.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUser.cshtml.g.cs
+C:\Users\Abid Shafique\Desktop\Assignment no 3\Assignment no 3\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateUser.cshtml.g.cs

@@ -1,0 +1,25 @@
+﻿@model List<Assignment_no_3.Models.Post>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<div class="container">
+    <a class="btn btn-primary mt-3" href="/home/CreatePost" role="button">Create Post</a>
+</div>
+<div class="container mt-3">
+    @foreach (Assignment_no_3.Models.Post s in Model)
+    {
+        <a asp-action="PostDetail" asp-route-id="@s.Id" class="mylink">
+            <div class="media seperate-media myblackclass">
+                <img class="align-self-start mr-3 rounded-circle" height="60px" width="60px" src="@Url.Content(s.imagepath)" alt="UserImage">
+                <div class="media-body">
+                    <span><span class="myUsername">@s.username</span>@s.date</span>
+                    <hr />
+                    <h5 class="mt-0">@s.title</h5>
+                    <p>@s.content</p>
+                </div>
+            </div>
+        </a>
+    }
+</div>

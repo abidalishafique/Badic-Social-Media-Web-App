@@ -1,0 +1,45 @@
+﻿@model Assignment_no_3.Models.EditUser
+@{
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+
+}
+
+<div class="container mt-3">
+    <form enctype="multipart/form-data" action="/admin/EditUser" method="post">
+        <div class="row">
+            <div class="col-2">
+                <img class="rounded-circle" height="150px" width="150px" src="@Url.Content(Model.imagePath)" alt="Profile Picture" />
+            </div>
+            <div class="col-10">
+                <h3 class="mt-2">@Model.username</h3>
+            </div>
+        </div>
+        <h4 class="mt-2 ml-1">Profile</h4>
+        <hr />
+        <div class="form-group">
+            <label>Username*</label>
+            <input asp-for="username" class="form-control" placeholder="Enter Username">
+            <span asp-validation-for="username"></span>
+            <small id="emailHelp" class="form-text text-muted">Required 150 Character or fewer. Letters, Degits and @@/.//+/_only</small>
+        </div>
+        <div class="form-group">
+            <label>Email*</label>
+            <input asp-for="email" class="form-control" placeholder="Enter Email">
+            <span asp-validation-for="email"></span>
+        </div>
+        <div class="form-group">
+            <label>Image*</label><br />
+            <label>Currently: <span class="myUsername">@Model.imageName</span></label><br />
+            <input asp-for="myImage">
+            <span asp-validation-for="myImage"></span>
+        </div>
+        <div class="form-group">
+            <label>Password*</label>
+            <input asp-for="password" type="password" class="form-control" placeholder="Enter Password">
+            <span asp-validation-for="password"></span>
+        </div> 
+        <input type="submit" class="btn btn-outline-primary" value="Update" />
+    </form>
+</div>
+
+

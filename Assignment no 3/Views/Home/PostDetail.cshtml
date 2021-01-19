@@ -1,0 +1,16 @@
+﻿@model Assignment_no_3.Models.Post
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-3">
+    <div class="media seperate-media">
+        <img class="align-self-start mr-3 rounded-circle" height="60px" width="60px" src="@Url.Content(Model.imagepath)" alt="UserImage">
+        <div class="media-body">
+            <span><span class="myUsername">@Model.username</span>@Model.date</span>
+            <hr />
+            <h5 class="mt-0">@Model.title</h5>
+            <p>@Model.content</p>
+        </div>
+    </div>
+</div>

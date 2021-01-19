@@ -1,0 +1,24 @@
+﻿@using Assignment_no_3.Models
+@model NewPost
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<div class="container m-3">
+    <form method="post" action="/home/CreatePost">
+        <h2>Create Your Post</h2>
+        <hr />
+        <div class="form-group">
+            <label>Title*</label>
+            <input asp-for="title" class="form-control" placeholder="Enter Title">
+            <span asp-validation-for="title"></span>
+        </div>
+        <div class="form-group">
+            <label>Content*</label>
+            <textarea asp-for="content" class="form-control" rows="8" placeholder="Enter Content"></textarea>
+            <span asp-validation-for="content"></span>
+        </div>
+        <input type="submit" class="btn btn-outline-primary" value="Post" />
+    </form>
+</div>

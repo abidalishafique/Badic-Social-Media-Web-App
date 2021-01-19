@@ -1,0 +1,84 @@
+﻿@using Assignment_no_3.Models
+@model SignIn
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Signin</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <Style>
+        body {
+            font-family: Dubai Light;
+        }
+
+        .container1 {
+            width: 500px;
+            height: 350px;
+            margin: auto;
+            margin-top: 80px;
+            border: 2px solid powderblue;
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+        .heading {
+            font-size: 35px;
+            font-weight: bold;
+            background-color: Black;
+            color: white;
+            text-align: center;
+        }
+
+        .btn {
+            float: right;
+            margin-right: 30px;
+        }
+        a {
+            color: dodgerblue;
+            font-size: 20px;
+            text-decoration: none;
+            margin-left: 10px;
+        }
+        a:hover {
+            font-weight: bold;
+            text-decoration: none;
+         }
+        .field-validation-error{
+            color:red;
+        }
+        .input-validation-error {
+            border: 1px solid red;
+        }
+    </Style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a class="nav-link" href="/Admin/Index">Admin</a> 
+    </nav>
+    <form class="container1" action="/home/index" method="post">
+        <div class="heading">
+            Welcome to my Blog Website
+        </div>
+        <h2>User SignIn</h2>
+        <div class="form-group row">
+            <label class="col-sm-2 col-form-label">Email</label>
+            <div class="col-sm-10">
+                <input asp-for="email" class="form-control" placeholder="email@example.com">
+                <span asp-validation-for="email"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="inputPassword" class="col-sm-2 col-form-label">Password</label>
+            <div class="col-sm-10">
+                <input asp-for="password" type="password" class="form-control" placeholder="Password">
+                <span asp-validation-for="password"></span>
+            </div>
+        </div>
+        <a href="/home/index1">Create new Account </a>
+        <input type="submit" class="btn btn-primary btn-lg" value="Sign In" />
+
+    </form>     
+
+</body>
+
+</html>
